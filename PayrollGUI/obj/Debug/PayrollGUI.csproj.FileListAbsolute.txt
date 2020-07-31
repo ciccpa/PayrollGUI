@@ -1,0 +1,17 @@
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\bin\Debug\Payroll.dll
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\bin\Debug\Payroll.pdb
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\App.g.cs
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI_MarkupCompile.cache
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI_MarkupCompile.lref
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\MainWindow.baml
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.g.resources
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.CopyComplete
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.exe
+C:\Users\Joe\source\repos\Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.pdb
