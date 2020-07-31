@@ -1,0 +1,8 @@
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\bin\Debug\netstandard2.0\Payroll.deps.json
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\bin\Debug\netstandard2.0\Payroll.dll
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\bin\Debug\netstandard2.0\Payroll.pdb
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\obj\Debug\netstandard2.0\Payroll.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\obj\Debug\netstandard2.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\obj\Debug\netstandard2.0\Payroll.AssemblyInfo.cs
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\obj\Debug\netstandard2.0\Payroll.dll
+C:\Users\Joe\source\repos\Projects\Payroll\Payroll\obj\Debug\netstandard2.0\Payroll.pdb
