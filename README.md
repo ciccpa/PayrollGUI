@@ -11,6 +11,8 @@ Also contains PayrollTesting.cs, a class that has unit testing code for earlier 
 data into textboxes and listview. Also lets the user type in a worker ID and find their worker and shift data. 
 ![Screenshot (16)](https://user-images.githubusercontent.com/50625576/89061717-2e315800-d333-11ea-8f97-ee5468dccb9c.png)
 
+![Screenshot (19)](https://user-images.githubusercontent.com/50625576/89066078-d3036380-d33a-11ea-826b-27d7baf88822.png)
+
 ![Screenshot (22)](https://user-images.githubusercontent.com/50625576/89065911-86b82380-d33a-11ea-9434-7edd4ce1a818.png)
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/50625576/89065979-a5b6b580-d33a-11ea-85e1-67477a923cdf.png)
