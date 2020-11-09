@@ -1,7 +1,7 @@
 # PayrollGUI
 
 ## C# application that contains Payroll DLL and WPF Application that reads from Department files in JSON format.
-Deparment files contain worker information (Name, ID, Payrate) and shift information (Hours worked, Date, ID).
+Department files contain worker information (Name, ID, Payrate) and shift information (Hours worked, Date, ID).
 
 ## This project contains TWO components:
 ### 1. Payroll DLL - Holds class definitions for Department, Worker, and Shift. Contains sample department JSON file to be read from.
